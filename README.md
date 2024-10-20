@@ -7,5 +7,5 @@ pdf share in vultr
 
 
 
-# firewall and edit
+# firewall and other things
 https://github.com/ziminl/vultr
